@@ -1,0 +1,11 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Proyecto simple con Node y Hola Mundo con luces",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Gerardo Canales",
+  "license": "ISC"
+}
